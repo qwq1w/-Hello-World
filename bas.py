@@ -2,9 +2,3 @@
 
 
 print('s')
-
-
-
-print('s')
-
-
